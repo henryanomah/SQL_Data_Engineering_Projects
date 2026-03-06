@@ -14,7 +14,7 @@ SQL - driven analysis of data engineer job market trends using advanced quering 
 
 ### [2. WH_MART/](/2_DW_Mart_Build/) -Data Pipeline - Data Warehouse & Mart
 
-![Data Pipeline Architecture](Images/1_2_Project2_Data_Pipeline.png)
+![Data Pipeline Architecture](images/1_2_Project2_Data_Pipeline.png)
 End-to-End ETL pipeline transforming raw CSV files into a star schema data warehouse and analytical data marts.
 
 **Skills**: Dimensional modeling, ETL pipeline development, data mart architecture, production practices
